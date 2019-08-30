@@ -1,2 +1,2 @@
 # smartFridge
-How to make a mookup
+MockUp about SmartFridge project

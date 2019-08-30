@@ -1,2 +1,2 @@
 # smartFridge
-Repositorio de Mookup sobre trabajo de aplicación (DI): Smart Fridge
+How to make a mookup
